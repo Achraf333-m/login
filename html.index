@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>REAPER</title>
+  </head>
+  <body>
+    <section>
+      <NAv>
+        <h1>hello there</h1> 
+    </NAv>
+    </section>
+    <main>
+      <section>
+        <h2>how is it going</h2>
+      </section>
+      <img src="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" alt="">
+      <img src="./img/5-01.jpg" alt="">
+      <section>
+        <p>
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum
+          placeat iusto laborum beatae, debitis ad eveniet aperiam fugiat minima
+          maiores enim pariatur labore repellat nisi laboriosam. Ratione
+          possimus soluta aliquid!
+        </p>
+      </section>
+      <div>
+        <button><a href="user.html">CLICK ME</a></button>
+      </div>
+      <div>
+        <a href="https://www.youtube.com" target="_blank">YOUTUBE</a>
+      </div>
+      <section>
+        <h1><b>TO DO LIST</b></h1>
+        <ul>
+          <li>Do this</li>
+          <li>do another thing</li>
+          <li>and this too</li>
+        </ul>
+      </section>
+      <section>
+        <h1>ANOTHER LIST BUT WITH NUMBERS</h1>
+        <ol>
+          <li>Lorem, ipsum dolor.</li>
+          <li>Lorem ipsum dolor sit amet.</li>
+          <li>last thing</li>
+        </ol>
+      </section>
+    </main>
+    <footer>the footer</footer>
+  </body>
+</html>
